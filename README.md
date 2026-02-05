@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋 I'm <Your Name></h1>
+<h3 align="center">Building things for the web • Learning every day • Shipping fast 🚀</h3>
 
-<!--
-**shivam-xar/shivam-xar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0d1117" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ About
+```js
+const developer = {
+  name: "<Your Name>",
+  role: "Software Developer",
+  location: "🌍 Earth",
+  currentlyLearning: ["<Tech>", "<Tech>"],
+  interests: ["Web", "AI", "Open Source"],
+  funFact: "I break things to understand how they work"
+};
