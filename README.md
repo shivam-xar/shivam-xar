@@ -1,25 +1,37 @@
-<h1 align="center">Hey there 👋 I'm <Your Name></h1>
-<h3 align="center">Building things for the web • Learning every day • Shipping fast 🚀</h3>
+<h1 align="center">Hey 👋 I'm Shivam Prajapati</h1>
+<h3 align="center">Full Stack Developer • JavaScript Ecosystem • Always Shipping 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0d1117" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+Specialist;Node+%26+REST+API+Builder;Learning+DevOps" />
 </p>
 
 ---
 
-## ⚡ About
+## ⚙️ About Me
 ```js
 const developer = {
-  name: "<Your Name>",
-  role: "Software Developer",
-  location: "🌍 Earth",
-  currentlyLearning: ["<Tech>", "<Tech>"],
-  interests: ["Web", "AI", "Open Source"],
-  funFact: "I break things to understand how they work"
+  name: "Shivam Prajapati",
+  role: "Full Stack Developer",
+  techFocus: "JavaScript Ecosystem",
+  stack: [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  currentlyLearning: [
+    "Docker",
+    "Nginx",
+    "PgBouncer",
+    "DevOps Fundamentals"
+  ],
+  mindset: "Build • Optimize • Scale"
 };
